@@ -1,0 +1,4 @@
+neobundle.vim
+syntastic
+tern_for_vim
+vim-jsbeautify
